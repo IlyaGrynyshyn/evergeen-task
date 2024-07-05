@@ -1,6 +1,3 @@
-
-from django.contrib import admin
-from image_cropping import ImageCroppingMixin
 from task_2.models import MainPage
 
 from django.contrib import admin
